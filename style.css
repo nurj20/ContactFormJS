@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: aliceblue;
+    padding-top: 1%;
+}
+
+h1 {
+    color: #474678;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+input,
+textarea {
+    padding: 15px;
+    border-radius: 12px;
+}
+
+.container {
+    width: 50vw;
+    margin: auto;
+}
+
+.form-item {
+    display: grid;
+    grid-template-rows: 100%;
+    padding-top: 15px;
+}
+
+button {
+    width: 70%;
+    position: relative;
+    left: 15%;
+    padding: 15px;
+    border-radius: 12px;
+    margin-top: 15px;
+    background-color: #97D5E8;
+}
