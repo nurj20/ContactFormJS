@@ -11,7 +11,6 @@ btn.addEventListener('click', () => {
         return
     }
     Email.send({
-        // SecureToken: "5307ded4-d6de-496c-b0d4-df535e025caa",
         Host: ".............",
         Username: "...............",
         Password: "..............",
